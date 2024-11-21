@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Padrino",
+    "genero": "Drama",
+    "año": "1972",
+    "director": "Francis Ford Coppola"
+  },
+  {
+    "id": 2,
+    "titulo": "Pulp Fiction",
+    "genero": "Crimen",
+    "año": "1994",
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": 3,
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "genero": "Fantasía",
+    "año": "2001",
+    "director": "Peter Jackson"
+  },
+  {
+    "id": 4,
+    "titulo": "Forrest Gump",
+    "genero": "Comedia-Drama",
+    "año": "1994",
+    "director": "Robert Zemeckis"
+  },
+  {
+    "id": 5,
+    "titulo": "La Matrix",
+    "genero": "Ciencia Ficción",
+    "año": "1999",
+    "director": "The Wachowskis"
+  },
+  {}
+]
